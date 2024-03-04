@@ -2,7 +2,7 @@ import Header from "@/component/header/header";
 import "./globals.css";
 
 export const metadata = {
-  title: "NextLevel Food",
+  title: "Food Court",
   description: "Delicious meals, shared by a food-loving community.",
 };
 
